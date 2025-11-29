@@ -5,4 +5,6 @@
 
 3. 🙌 Cloud Computing: Uso de servidores remotos para almacenar, procesar y gestionar datos.
 
+4. 🤡 Clase (OOP): Modelo que define propiedades y metodos para crear objetos.
+
 
